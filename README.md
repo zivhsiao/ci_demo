@@ -87,9 +87,9 @@ vagrant 用的是 /vagrant 當做對應資料夾
 
 ## 這裡就進入 CI 的世界，前置作業
 
-    git clone https://github.com/zivhsiao/ci-twig.git
+    git clone https://github.com/zivhsiao/ci-demo.git
 
-先 git 一份，這裡會產生 ci-twig 的目錄，所以 apache2 改變成 /vagrant/ci-twig
+先 git 一份，這裡會產生 ci-demo 的目錄，所以 apache2 改變成 /vagrant/ci-twig
 
 ### Controller, View 說明
 
